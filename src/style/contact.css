@@ -1,0 +1,15 @@
+div.contact {
+  width: 80%;
+  height: 100vh;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  border: solid 1px gray;
+  margin-top: 10px;
+  box-shadow: 0 0 4px 1px rgba(255, 235, 205, 0.363);
+  border-radius: 8px;
+}
+div.contact h2 {
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+}/*# sourceMappingURL=contact.css.map */

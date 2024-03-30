@@ -1,0 +1,23 @@
+.slider-div {
+  height: 400px;
+  width: 100%;
+  margin-top: 10px;
+}
+.slider-div div.slider-image {
+  height: 400px;
+  width: 80%;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+.slider-div div.slider-image img {
+  height: 100%;
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.slider-div div.slider-image p {
+  margin-top: -50px;
+  font-size: 20px;
+}/*# sourceMappingURL=slider.css.map */

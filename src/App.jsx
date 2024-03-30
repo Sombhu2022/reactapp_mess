@@ -30,7 +30,7 @@ function App() {
 
 <Slider/>
 <Home/>
-<About/>
+<About som="sombhu das" title="about page"/>
 <Contact/>
 
 </BrowserRouter>
